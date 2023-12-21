@@ -32,7 +32,7 @@ FEATURES
 
 DEPENDENCIES
 
-This project relies on a C++ compiler that supports the C++11 standard or later.
+This project relies on a C compiler that supports C99.
 
 USAGE
 
